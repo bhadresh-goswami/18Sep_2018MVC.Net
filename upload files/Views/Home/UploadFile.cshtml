@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "UploadFile";
+}
+
+<h2>UploadFile</h2>
+
+
+@ViewBag.message
+
+
+@using (Html.BeginForm("UploadFile", "Home", FormMethod.Post, htmlAttributes:new { @enctype = "multipart/form-data" }))
+{
+
+    <table>
+        <tr>
+            <td>
+                Enter File Name
+            </td>
+
+            <td>
+                @Html.TextBox("name", "", htmlAttributes: new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Select File
+            </td>
+
+            <td>
+
+                <input type="file" name="fileBase" id="fileBase" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button class="btn btn-lg btn-primary">Upload</button>
+            </td>
+        </tr>
+    </table>
+
+
+
+
+}
+
