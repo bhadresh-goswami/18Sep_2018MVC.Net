@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Index", "GETPOSTEX", FormMethod.Post))
+{
+    <input type="text" placeholder="Enter text" name="name" id="name" />
+    <br />
+    <button type="submit">Send</button>
+}
+
