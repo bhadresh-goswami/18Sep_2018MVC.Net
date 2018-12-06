@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "ViewDataExample";
+}
+
+<h2>ViewDataExample</h2>
+From Viewbag Page: @TempData["ticks"].ToString()
+<br /><br />
+Current : @DateTime.Now.Ticks
+<br /><br />
+<table class="table table-responsive">
+    <tr>
+        <td>
+            Name :
+        </td>
+        <td>
+            @ViewData["name"].ToString()
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Basic Slary :
+        </td>
+        <td>
+            @ViewData["bs"].ToString()
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Incetive :
+        </td>
+        <td>
+            @ViewData["inc"].ToString()
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Inc :
+        </td>
+        <td>
+            @{
+                double inctotal = double.Parse(ViewData["inc"].ToString()) * double.Parse(ViewData["bs"].ToString()) / 100;
+            }
+
+            @inctotal
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Total :
+        </td>
+        <td>
+            @{
+                double t = double.Parse(ViewData["bs"].ToString()) + inctotal;
+            }
+            @t
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "ViewBagExample";
+}
+
+<h2>ViewBag Example</h2>
+
+<table class="table table-responsive">
+    <tr>
+        <td>
+            Name :
+        </td>
+        <td>
+            @ViewBag.name
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Basic Slary :
+        </td>
+        <td>
+            @ViewBag.bs
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Incetive :
+        </td>
+        <td>
+            @ViewBag.inc
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Inc :
+        </td>
+        <td>
+            @{
+                double inctotal = ViewBag.inc * ViewBag.bs / 100;
+            }
+
+            @inctotal
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Total :
+        </td>
+        <td>
+            @{ 
+                double t = ViewBag.bs + inctotal;
+            }
+            @t
+        </td>
+    </tr>
+</table>
+
