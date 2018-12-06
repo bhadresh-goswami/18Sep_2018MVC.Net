@@ -1,0 +1,7 @@
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\bin\Debug\PolyMorphisum.exe.config
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\bin\Debug\PolyMorphisum.exe
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\bin\Debug\PolyMorphisum.pdb
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\obj\Debug\PolyMorphisum.csprojAssemblyReference.cache
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\obj\Debug\PolyMorphisum.csproj.CoreCompileInputs.cache
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\obj\Debug\PolyMorphisum.exe
+E:\bhadresh\Student_Kiran_Adity\02-2-2018\PolyMorphisum\PolyMorphisum\obj\Debug\PolyMorphisum.pdb
