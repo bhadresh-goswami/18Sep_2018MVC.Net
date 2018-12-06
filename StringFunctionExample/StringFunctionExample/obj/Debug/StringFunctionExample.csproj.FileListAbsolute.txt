@@ -1,0 +1,7 @@
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\bin\Debug\StringFunctionExample.exe.config
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\bin\Debug\StringFunctionExample.exe
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\bin\Debug\StringFunctionExample.pdb
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\obj\Debug\StringFunctionExample.csprojAssemblyReference.cache
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\obj\Debug\StringFunctionExample.csproj.CoreCompileInputs.cache
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\obj\Debug\StringFunctionExample.exe
+E:\bhadresh\Student_Kiran_Adity\12-10-2018\StringFunctionExample\StringFunctionExample\obj\Debug\StringFunctionExample.pdb
