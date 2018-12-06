@@ -1,0 +1,7 @@
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\bin\Debug\MultiDimeArray.exe.config
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\bin\Debug\MultiDimeArray.exe
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\bin\Debug\MultiDimeArray.pdb
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\obj\Debug\MultiDimeArray.csprojAssemblyReference.cache
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\obj\Debug\MultiDimeArray.csproj.CoreCompileInputs.cache
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\obj\Debug\MultiDimeArray.exe
+E:\bhadresh\Student_Kiran_Adity\16-10-2018\MultiDimeArray\MultiDimeArray\obj\Debug\MultiDimeArray.pdb
