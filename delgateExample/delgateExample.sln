@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delgateExample", "delgateExample\delgateExample.csproj", "{7A7187FB-DE91-4AB0-94F8-783CABDC8E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A7187FB-DE91-4AB0-94F8-783CABDC8E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7187FB-DE91-4AB0-94F8-783CABDC8E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7187FB-DE91-4AB0-94F8-783CABDC8E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7187FB-DE91-4AB0-94F8-783CABDC8E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A80ACC27-E449-48A8-ACD3-86AD2B0A5B94}
+	EndGlobalSection
+EndGlobal
